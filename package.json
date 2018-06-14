@@ -5,6 +5,7 @@
     "version": "0.3.0",
     "repository": "https://github.com/Delta-Icons/VSCode-Color-Theme.git",
     "publisher": "leif-niemczik",
+    "icon": "delta.png",
     "engines": {
         "vscode": "^1.24.0"
     },
