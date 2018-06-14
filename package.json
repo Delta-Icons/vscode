@@ -1,0 +1,22 @@
+{
+    "name": "delta-color-theme",
+    "displayName": "Delta Color Theme",
+    "description": "Color Theme Based on the Delta Icons Palette",
+    "version": "0.1.0",
+    "publisher": "leif-niemczik",
+    "engines": {
+        "vscode": "^1.24.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Delta Color Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Delta Color Theme-color-theme.json"
+            }
+        ]
+    }
+}
