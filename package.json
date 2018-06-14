@@ -2,7 +2,7 @@
     "name": "delta-color-theme",
     "displayName": "Delta Color Theme",
     "description": "Color Theme Based on the Delta Icons Palette",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "repository": "https://github.com/Delta-Icons/VSCode-Color-Theme.git",
     "publisher": "leif-niemczik",
     "engines": {
