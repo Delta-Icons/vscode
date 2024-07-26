@@ -1,7 +1,13 @@
-# Change Log
-All notable changes to the "delta-color-theme" extension will be documented in this file.
+# Changelog
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [0.3.1] - 2018-06-14
 
-## [Unreleased]
-- Initial release
+### Changed
+
+- Darkened purple for contrast
+
+## [0.3.0] - 2018-06-14
+
+### Added
+
+- Repo in package.json
